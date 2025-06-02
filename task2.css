@@ -1,0 +1,15 @@
+h4{
+    color: rgb(255, 85, 0);
+
+}
+div{
+    padding-left: 5%;
+    font-family:sans-serif;
+    font-size:medium;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 20%;
+}
+body{
+    background-color:rgb(244, 244, 230);
+}
