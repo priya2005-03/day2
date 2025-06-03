@@ -1,15 +1,34 @@
-h4{
-    color: rgb(255, 85, 0);
-
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: 0px;
 }
+body{
+    background-color:rgb(244, 244, 230);
+}
+.image{
+    border:3px solid green;
+    border-radius: 60%;
+} 
+hr{
+    border: none;
+    height: 1px;
+    width: 50%;
+    background-color: rgb(62, 164, 185);
+}   
 div{
     padding-left: 5%;
-    font-family:sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size:medium;
     margin-left: 20%;
     margin-right: 20%;
     margin-bottom: 20%;
 }
-body{
-    background-color:rgb(244, 244, 230);
+h4{
+    color: rgb(222, 89, 41);
+    padding-top: 2%;
 }
+.para{
+    padding-top: 2%;
+}
+        
